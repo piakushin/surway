@@ -36,6 +36,5 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2
         with:
           build_dir: dist
-          fqdn: surway.pyakushin.xyz
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
