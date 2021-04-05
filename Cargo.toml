@@ -10,3 +10,5 @@ edition = "2018"
 web-sys = {version = "*", features = ["console"]}
 seed = "*"
 leaflet = "*"
+serde = "*"
+serde_derive = "*"
